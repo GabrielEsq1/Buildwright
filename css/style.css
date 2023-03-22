@@ -147,6 +147,15 @@
     }
 }
 
+/*** logo ***/
+@media (min-width: 768px) {
+    .nav-img {
+        max-width: 50% !important;
+    }
+}
+
+
+
 
 /*** Header ***/
 @media (max-width: 768px) {
