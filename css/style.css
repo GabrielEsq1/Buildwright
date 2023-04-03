@@ -127,6 +127,32 @@
     top: -100px;
     transition: .5s;
 }
+.btn-primary,
+.btn-outline-primary:hover {
+    top: 394px;
+    color: var(--light);
+    margin: 10px;
+    
+}
+
+.btn-primary2,
+.btn-outline-primary:hover {
+    top: 494px;
+    margin: 10px;    color: #ffffff;
+
+    background-color: #7FFF00;
+}
+
+.btn-primary3,
+.btn-outline-primary:hover {
+       left: 40px;
+    color: #ffffff;
+
+    background-color: #7FFF00;
+        margin: 10px;
+    
+    
+}
 
 @media (min-width: 992px) {
     .navbar .nav-item .dropdown-menu {
