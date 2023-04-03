@@ -143,16 +143,7 @@
     background-color: #7FFF00;
 }
 
-.btn-primary3,
-.btn-outline-primary:hover {
-       left: 40px;
-    color: #ffffff;
 
-    background-color: #7FFF00;
-        margin: 10px;
-    
-    
-}
 
 @media (min-width: 992px) {
     .navbar .nav-item .dropdown-menu {
