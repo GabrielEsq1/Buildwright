@@ -138,11 +138,22 @@
 .btn-primary2,
 .btn-outline-primary:hover {
     top: 494px;
-    margin: 20px;    color: #ffffff;
+    margin: 28px;
+    margin-top: 28px;
+    color: #ffffff;
 
     background-color: #7FFF00;
 }
 
+.btn-primary5,
+.btn-outline-primary:hover {
+    top: 494px;
+    margin: 10px;
+    margin-top: 28px;
+    color: #ffffff;
+
+    background-color: #7FFF00;
+}
 
 
 @media (min-width: 992px) {
